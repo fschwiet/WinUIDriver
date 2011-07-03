@@ -7,7 +7,7 @@ namespace WinUIDriver
 {
     public class WinUIDriver
     {
-        public static AutomationElement SearchUIElements(AutomationElement root, TreeScope depth, PropertyCondition filter)
+        public static AutomationElement SearchUIElements(AutomationElement root, TreeScope depth, Condition filter)
         {
             var waitInterval = 50;
             var maxWait = 5 * 1000;
