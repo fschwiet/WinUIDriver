@@ -7,6 +7,8 @@ I'm just extracting some utility code I found useful when testing a webform appl
 
 The UIAutamation code provides functionality for element discovery, the second is action.  Inspect.exe is used for implement discovery.  It installs as part of the Windows .NET SDK.  More info: http://msdn.microsoft.com/en-us/library/dd318521%28v=vs.85%29.aspx
 
+Update:  Window Detective is easier to get, I haven't tried it yet but its probably better overall: http://sourceforge.net/projects/windowdetective
+
 ## Useful docs related to automating the Windows user interface
 
 "UI Automation Fundamentals" - http://msdn.microsoft.com/en-us/library/ms753107.aspx
